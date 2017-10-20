@@ -1,2 +1,2 @@
-# zgr_blog
-个人博客与简历网址
+# React Music Player
+A simple React music player.
